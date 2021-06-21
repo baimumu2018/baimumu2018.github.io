@@ -1,0 +1,8 @@
+User-agent: * Allow: /
+Allow: /archives/
+Disallow: /vendors/
+Disallow: /categories/
+
+
+Sitemap: http://www.accoll.com/sitemap.xml
+Sitemap: http://www.accoll.com/baidusitemap.xml
